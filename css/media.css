@@ -1,0 +1,516 @@
+
+
+/* xl */
+@media only screen and (max-width : 1200px) {
+	a.call {
+		display: none;
+	}
+
+	.content2 {
+		width: 400px;
+	}
+
+	.block2 .content4 {
+		width: 450px;
+	}
+
+	.img .foto {
+		width: 303px;
+	}
+
+	img.foto.office7 {
+		height: 404px;
+	}
+
+
+}
+
+/* lg */
+@media only screen and (max-width : 992px) {
+	a.call {
+		display: inline;
+	}
+
+	.logo {
+		display: block;
+		margin: 0 240px 0;
+		margin-bottom: 20px
+	}
+
+	.center-head {
+		display: block;
+		float: none;
+		margin: 0 auto;
+		margin-bottom: 20px;
+		text-align: center;
+	}
+
+	.adress div {
+		margin-left: 0;
+	}
+
+	.adress .phone {
+		margin-left: 30px;
+	}
+
+	.right-head {
+		margin: 0 63px;
+	}
+
+	.caption {
+		margin-top: 45px;
+		margin-bottom: 0px;
+	}
+
+	header {
+		position: static;
+	}
+
+	section.home-page {
+		margin-top: 0;
+		padding-top: 0;
+	}
+
+	.content1 {
+		margin-top: 30px;
+	}
+
+	.content1 img {
+		width: 100%;
+	}
+
+	.content2 {
+		width: 350px;
+		margin-top: 30px;
+	}
+
+	.content4 {
+		margin: 0 auto;
+		margin-bottom: 65px
+	}
+
+	.content3 {
+		margin: 0 auto; 
+		margin-bottom: 50px;
+		text-align: center;
+	}
+
+	img.plan {
+		width: 100%;
+	}
+
+	.content4 h2 {
+		text-align: center;
+	}
+
+	.content4 p {
+		width: 450px;
+		margin: 0 auto;
+		margin-bottom: 25px; 
+	}
+
+	.table {
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	table {
+		width: 100%;
+		margin: 0 auto;
+	}
+
+
+	/* section galery start */
+	img.foto.office3 {
+		margin-right: 10px;
+	}
+
+	.img .foto {
+		width: 335px;
+	}
+
+	img.foto.office7 {
+		height: 446px;
+	}
+
+	.img .office2, .office4, .office9 {
+		margin-right: 0;
+	}
+
+	img.foto.office9 {
+		margin-right: 0;
+	}
+	/* section galery and */
+	
+	/* section footer start */
+	.wrapper {
+		display: block;
+		width: 500px;
+		margin: 0 auto;
+		float: none;
+	}
+
+	.footer-center {
+		margin-left: 9px;
+		padding-bottom: 0;
+	}
+
+	.footer-right {
+		float: none;
+		display: block;
+		padding-top: 60px;
+		width: 413px;
+		margin: 0 auto;
+	}
+
+	.footer-left {
+		padding-bottom: 0;
+	}
+
+	.grand-h {
+		margin-top: 30px;
+		text-align: center;
+	}
+
+	/* section footer and*/
+
+}
+
+
+
+
+
+
+/* md */
+@media only screen and (max-width : 768px) {
+	.logo {
+		float: none;
+		display: block;
+		margin: 20px auto;
+		text-align: center;
+	}
+
+	.adress .phone {
+		margin-left: 0;
+	}
+
+	.adress {
+		display: block;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	.content1 {
+		width: 100%;
+		text-align: center;
+	}
+
+	.content2 {
+		width: 100%;
+	}
+
+	h2.txt1 {
+		display: block;
+		text-align: center;
+		margin-bottom: 10px;
+	}
+
+	.content2 p {
+		text-align: center;
+	}
+
+	.content-in2 {
+		display: block;
+		width: 312px;
+		margin: 0 auto;
+	}
+
+	.content4 h2 {
+		margin-bottom: 10px;
+		text-align: center;
+	}
+
+	.content4 p {
+		text-align: center;
+	}
+
+	.table {
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	table {
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.table thead {
+		font-size: 15px;
+	}
+
+	table th {
+		padding: 2px 3px;
+	}
+
+	tbody td {
+		font-size: 12px;
+		padding: 2px 3px;
+	} 
+
+	.img .foto {
+		width: 100%;
+	}
+
+	img.foto.office7 {
+		height: auto;
+	}
+
+	.bg-black {
+		padding: 150px 0;
+	}	
+
+
+
+}
+
+
+
+
+/* sm */
+@media only screen and (max-width : 560px) {
+	.phone a {
+		font-weight: 500;
+		font-size: 20px;
+	}
+
+	.caption h1 {
+		font-size: 35px;
+	}
+
+	.caption2 h2 {
+		margin-top: 30px;
+		margin-bottom: 25px;
+		font-size: 30px;
+		padding: 0 15px;
+	}
+
+	.content-in2 ul li {
+		line-height: 27px;
+	}
+
+	.content4 {
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	table {
+		width: 100%;
+	}
+
+	.table th {
+		padding: 1px;
+	}
+
+	.table td {
+		padding: 3px 1px;
+	}
+
+	.content4 h2 {
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	.bg-black {
+		padding: 110px 0;
+	}
+
+	.wrapper {
+		width: 100%;
+	}
+
+	.footer-left {
+		float: none;
+		text-align: center;
+		padding: 40px 40px 10px;
+	}
+
+	.footer-center {
+		display: block;
+		float: none;
+		text-align: center;
+		margin: 0 auto;
+		padding-top: 10px;
+	}
+
+	.footer-right {
+		display: block;
+		width: 260px;
+		padding-top: 25px;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.footer-right .f-right {
+		display: block;
+		width: 100%;
+		text-align: center;
+		padding-top: 5px;
+		padding-bottom: 10px;
+		margin:0 auto;
+	}
+
+	.form {
+		display: block;
+		float: none;
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	form {
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.form-left {
+		display: block;
+		float: none;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.form-right {
+		display: block;
+		float: none;
+		text-align: center;
+		margin: 15px auto;
+	}
+
+	button.form-btn {
+		float: none;
+		margin: 0px auto;
+	}
+
+	.grand-h {
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	/* scrollUp start */
+	a#scrollUp {
+		height: 35px;
+		width: 35px;
+		right: 15px;
+		bottom: 15px;
+		line-height: 30px;
+	}
+	/* scrollUp and */
+
+}
+
+/* xs */
+@media only screen and (max-width : 480px) {
+	.form {
+		display: block;
+		float: none;
+		margin-left: 0;
+		margin-right: 0;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.footer-right {
+		display: block;
+		float: none;
+		width: 100%;
+		padding-top: 25px;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.form-left {
+		float: none;
+	}
+
+	.form-right {
+		float: none;
+	}
+
+	input.name {
+		width: 100%;
+	}
+
+	input.tel {
+		width: 100%;
+		margin-top: 6px;
+	}
+
+	.form-left .name, .tel {
+		padding: 5px 5px;
+	} 
+
+	textarea.massage {
+		width: 100%;
+		line-height: 20px;
+		margin-top: 10px;
+		height: 75px;
+	}
+
+	button.form-btn {
+		width: 100%;
+		padding: 5px;
+	}
+
+	.block2 .content4 {
+		width: 100%;
+	}
+
+	.content4 p {
+		width: 100%;
+	}
+
+	.table thead th {
+		font-size: 13px;
+	}
+
+	.grand-h {
+		margin-top: 50px;
+	}
+
+	.right-head {
+		margin: 0 20px;
+	}
+
+
+}
+ 
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+	
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
